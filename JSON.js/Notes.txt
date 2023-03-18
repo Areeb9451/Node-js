@@ -1,0 +1,44 @@
+
+                  What is JSON:
+
+* JSON stands for JavaScript Object Notation.
+* It is used for storing and transporting. 
+* It is often used when we data is sent frm a server to a web page.
+* It is lightweight interchnging formate.
+* It is language independent.
+* It is 'self-describing' and easy to inderstand.
+
+
+                 JSON Data Types:
+
+* string
+* number
+* an object(JSON object)
+* array
+* boolean
+* null
+
+JSON values cannot be one of the following data types:
+* function
+* date
+* undefined
+
+
+               JSON Syntax Rule
+
+* Data is name/value pairs
+* Data is separated by commas
+* JSON objects are surrounded by curly braces {}
+* Curly braces holds objects
+* Square braces holds arrays
+
+ {
+     "employee" : [
+         {
+             "name" : "Areeb",
+             "lastname" : "Ahamd",
+             "age" : 21,
+             "profession" : "coder"
+         }
+     ]
+ }

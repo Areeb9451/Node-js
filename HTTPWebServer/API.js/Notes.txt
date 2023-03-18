@@ -1,0 +1,2 @@
+API is Application Programming Interface, which is a software intermediary that allows two application to talk to each other. Each time we use app like Facebook to send an instant message, or check weather on phone, we are using an API.
+API is like a service provider which give the data which we request to it.

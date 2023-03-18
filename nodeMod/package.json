@@ -1,0 +1,15 @@
+{
+  "name": "nodemod",
+  "version": "1.0.0",
+  "description": "'Hi'",
+  "main": "npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "'Areeb Ahmad'",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "validator": "^13.7.0"
+  }
+}
